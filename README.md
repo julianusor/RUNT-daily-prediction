@@ -9,6 +9,7 @@ Realizado por
 * Diego de Oliveira Hitzges
 * Julián Úsuga Ortiz
 * Juan José Hurtado Álvarez
+* Santiago Campos Giraldo
 
 Para la materia Técnicas en aprendizaje estadístico - UNALMED
 
@@ -16,4 +17,4 @@ Para la materia Técnicas en aprendizaje estadístico - UNALMED
 
 [Link al informe](https://julian4u0.github.io/RUNT-daily-prediction/)
 
-[Video explicativo](https://youtu.be/7W1JvyWIGhI)
+[Video explicativo](https://youtu.be/i73bQZ6AE5Q)
