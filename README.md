@@ -6,9 +6,9 @@ Repositorio con datos y código fuente para predecir el numero de registros diar
 En este repositorio están los datos fuente, los datos predichos por nuestro modelo y además un aplicativo interactivo para usar el modelo con unos pocos clics.
 
 Realizado por 
-Diego de Oliveira Hitzges
-Julián Úsuga Ortiz
-Juan José Hurtado Álvarez
+* Diego de Oliveira Hitzges
+* Julián Úsuga Ortiz
+* Juan José Hurtado Álvarez
 
 Para la materia Técnicas en aprendizaje estadístico - UNALMED
 
