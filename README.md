@@ -10,7 +10,7 @@ Diego de Oliveira Hitzges
 Julián Úsuga Ortiz
 Juan José Hurtado Álvarez
 
-Para la materia Técnicas en aprendizaje estadístico
+Para la materia Técnicas en aprendizaje estadístico - UNALMED
 
 2021
 
